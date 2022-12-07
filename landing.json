@@ -1,11 +1,11 @@
 {
   "title": "Bandwidth Services docs",
-  "lastupdated": "2022-11-14",
-  "introduction": "Bandwidth services allow you to manage bandwidth on a range of devices. Leverage the docs to plan for, provision, and manage bandwidth on your devices.",
+  "lastupdated": "2022-12-07",
+  "introduction": "Manage bandwidth on a range of devices with bandwidth services. Use the docs to plan for, provision, and manage bandwidth on your devices.",
   "section_recommended": [
     {
       "title": "Getting started with bandwidth services",
-      "description": "Get started setting up bandwidth services.",
+      "description": "Get started with setting up bandwidth services.",
       "href": "/docs/bandwidth-services?topic=bandwidth-services-get-started-with-bandwidth-services"
     },
     {
@@ -15,7 +15,7 @@
     },
     {
       "title": "Creating bandwidth pools",
-      "description": "Get started creating bandwidth pools.",
+      "description": "Get started with creating bandwidth pools.",
       "href": "/docs/bandwidth-services?topic=bandwidth-services-how-to-create-ibm-cloud-bandwidth-pools"
     }
   ],

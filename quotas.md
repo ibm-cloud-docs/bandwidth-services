@@ -2,7 +2,7 @@
 
 copyright:
   years: 2022
-lastupdated: "2022-11-30"
+lastupdated: "2022-12-07"
 
 keywords: bandwidth services, bandwidth pools
 
@@ -15,4 +15,4 @@ subcollection: bandwidth-services
 # Quotas and service limits for bandwidth services
 {: #quotas}
 
-There are no quotas and service limits for bandwidth services. 
+No quotas and service limits exist for bandwidth services. 

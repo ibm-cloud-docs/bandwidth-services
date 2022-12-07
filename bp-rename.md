@@ -2,7 +2,7 @@
 
 copyright:
   years: 2022
-lastupdated: "2022-11-30"
+lastupdated: "2022-12-07"
 
 keywords: bandwidth services, bandwidth pools
 
@@ -16,13 +16,13 @@ subcollection: bandwidth-services
 {: #how-to-rename-ibm-cloud-bandwidth-pools}
 {: ui}
 
-You must name your bandwidth pool when you create it. You can also rename a bandwidth pool at a later date, if needed.
+You must name your bandwidth pool when you create it. You can also rename a bandwidth pool if needed.
 {: shortdesc}
 
 To rename a bandwidth pool by using the UI, follow these steps:
 
 1. From your browser, open the [{{site.data.keyword.cloud_notm}} console](/login){: external} and log in to your account.
-1. Select the Navigation Menu ![Navigation Menu](../icons/icon_hamburger.svg), then click **Classic Infrastructure**.
+1. Select the Navigation menu ![Navigation menu](../icons/icon_hamburger.svg), then click **Classic Infrastructure**.
 1. Select **Network > Bandwidth > Pools**. 
 1. Locate the bandwidth pool that you want to rename. Use the **Region** and **Overage Status** filters as necessary.
 1. Click the Actions menu ![Actions menu](../icons/action-menu-icon.svg) for the bandwidth pool and select **Rename**. 

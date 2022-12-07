@@ -19,7 +19,7 @@ subcollection: bandwidth-services
 To delete a bandwidth pool by using the UI, follow these steps:
 
 1. From your browser, open the [{{site.data.keyword.cloud_notm}} console](/login){: external} and log in to your account.
-1. Select the Navigation Menu ![Navigation Menu](../icons/icon_hamburger.svg), then click **Classic Infrastructure**.
+1. Select the Navigation menu ![Navigation menu](../icons/icon_hamburger.svg), then click **Classic Infrastructure**.
 1. Select **Network > Bandwidth > Pools**.
 1. Locate the bandwidth pool that you want to cancel. Use the **Region** and **Overage Status** filters as necessary.
 1. Click the Actions menu ![Actions menu](../icons/action-menu-icon.svg) for the bandwidth pool and select **Delete**.

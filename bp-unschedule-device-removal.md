@@ -2,7 +2,7 @@
 
 copyright:
   years: 2022
-lastupdated: "2022-11-30"
+lastupdated: "2022-12-07"
 
 keywords: bandwidth services, bandwidth pools
 
@@ -19,7 +19,7 @@ subcollection: bandwidth-services
 To unschedule a device removal from a bandwidth pool by using the UI, follow these steps:
 
 1. From your browser, open the [{{site.data.keyword.cloud_notm}} console](/login){: external} and log in to your account.
-1. Select the Navigation Menu ![Navigation Menu](../icons/icon_hamburger.svg), then click **Classic Infrastructure**.
+1. Select the Navigation menu ![Navigation menu](../icons/icon_hamburger.svg), then click **Classic Infrastructure**.
 1. Select **Network > Bandwidth > Pools**.
 1. Locate the bandwidth pool that you want to remove a device from. Use the **Region** and **Overage status** filters as necessary.
 1. Click the name of the device to access this bandwidth pool's details page. 

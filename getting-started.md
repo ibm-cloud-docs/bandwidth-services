@@ -2,7 +2,7 @@
 
 copyright:
   years: 2022
-lastupdated: "2022-11-30"
+lastupdated: "2022-12-07"
 
 keywords: bandwidth services, bandwidth pools, classic bandwidth
 
@@ -50,7 +50,7 @@ Bandwidth pools are beneficial when you have devices with variable month-to-mont
 Follow these steps to manage bandwidth services in your account:
 
 1. From your browser, open the [{{site.data.keyword.cloud_notm}} console](/login){: external} and log in to your account.
-1. From the console, click the Navigation Menu ![Navigation Menu](../../icons/icon_hamburger.svg) and select **Classic Infrastructure**.
+1. From the console, click the Navigation menu ![Navigation menu](../../icons/icon_hamburger.svg) and select **Classic Infrastructure**.
 1. Select **Network > Bandwidth**. 
 
 ![Managing classic bandwidth](images/classic-bandwidth-ui.svg "Managing classic bandwidth"){: caption="Figure 2. Managing classic bandwidth" caption-side="bottom"}
